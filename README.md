@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Coding Projects
-- 📫 Reach me on ig id @_yogesh.agrawal_
+- 📫 Reach me on ig id @/_yogesh.agrawal/_
 
 <!---
 YogeshAgrawal-07/YogeshAgrawal-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
